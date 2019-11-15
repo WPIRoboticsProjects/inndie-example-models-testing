@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Model 1",
+    "path": "models/model1.h5",
+    "description": "The first model.",
+    "freeze_layers": "1-127"
+  },
+  {
+    "name": "Model 2",
+    "path": "models/model2.h5",
+    "description": "The second model.",
+    "freeze_layers": "1-30"
+  }
+]
