@@ -1,14 +1,26 @@
-[
-  {
-    "name": "Model 1",
-    "path": "models/model1.h5",
-    "description": "The first model.",
-    "freeze_layers": "1-127"
-  },
-  {
-    "name": "Model 2",
-    "path": "models/model2.h5",
-    "description": "The second model.",
-    "freeze_layers": "1-30"
-  }
-]
+{
+  "exampleModels": [
+    {
+      "name": "Model 1",
+      "path": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model1.h5",
+      "description": "The first model.",
+      "freezeLayers": [
+        {
+          "first": 1,
+          "second": 127
+        }
+      ]
+    },
+    {
+      "name": "Model 2",
+      "path": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model2.h5",
+      "description": "The second model.",
+      "freezeLayers": [
+        {
+          "first": 1,
+          "second": 30
+        }
+      ]
+    }
+  ]
+}
