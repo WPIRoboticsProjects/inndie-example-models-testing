@@ -2,7 +2,7 @@
   "exampleModels": [
     {
       "name": "Model 1",
-      "path": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model1.h5",
+      "url": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model1.h5",
       "description": "The first model.",
       "freezeLayers": [
         {
@@ -13,7 +13,7 @@
     },
     {
       "name": "Model 2",
-      "path": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model2.h5",
+      "url": "https://github.com/wpilibsuite/axon-example-models-testing/tree/master/models/model2.h5",
       "description": "The second model.",
       "freezeLayers": [
         {
