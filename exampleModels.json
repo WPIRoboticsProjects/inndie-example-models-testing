@@ -5,24 +5,14 @@
       "fileName": "model1.h5",
       "url": "https://raw.githubusercontent.com/wpilibsuite/axon-example-models-testing/master/models/model1.h5",
       "description": "The first model.",
-      "freezeLayers": [
-        {
-          "first": 1,
-          "second": 127
-        }
-      ]
+      "freezeLayers": {"input_1":{"value":null},"Conv1_pad":{"value":true}}
     },
     {
       "name": "Model 2",
       "fileName": "model2.h5",
       "url": "https://raw.githubusercontent.com/wpilibsuite/axon-example-models-testing/master/models/model2.h5",
       "description": "The second model.",
-      "freezeLayers": [
-        {
-          "first": 1,
-          "second": 30
-        }
-      ]
+      "freezeLayers": {"input_1":{"value":null},"Conv1_pad":{"value":true}}
     }
   ]
 }
