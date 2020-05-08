@@ -3,14 +3,14 @@
     {
       "name": "Model 1",
       "fileName": "model1.h5",
-      "url": "https://raw.githubusercontent.com/wpilibsuite/axon-example-models-testing/master/models/model1.h5",
+      "url": "https://raw.githubusercontent.com/wpilibsuite/inndie-example-models-testing/master/models/model1.h5",
       "description": "The first model.",
       "freezeLayers": {"input_1":{"value":null},"Conv1_pad":{"value":true}}
     },
     {
       "name": "Model 2",
       "fileName": "model2.h5",
-      "url": "https://raw.githubusercontent.com/wpilibsuite/axon-example-models-testing/master/models/model2.h5",
+      "url": "https://raw.githubusercontent.com/wpilibsuite/inndie-example-models-testing/master/models/model2.h5",
       "description": "The second model.",
       "freezeLayers": {"input_1":{"value":null},"Conv1_pad":{"value":true}}
     }
